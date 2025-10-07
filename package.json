@@ -1,0 +1,17 @@
+{
+  "name": "my-openiap-package",
+  "version": "1.0.0",
+  "description": "Package pour mon workflow OpenIAP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ton-utilisateur/my-openiap-package.git"
+  },
+  "author": "Ton Nom <ton-email@example.com>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
